@@ -1682,3 +1682,4 @@ All rights reserved. This project is provided as-is for educational and personal
 **Created by:** Manu V G  
 **Project:** ScalableWebApp v1.0.0
 # Frontend-Developer-Intern-Task
+# Frontend-Intern-Task
