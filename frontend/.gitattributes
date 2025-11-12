@@ -1,0 +1,5 @@
+# auto-detect text files and normalize to LF in repo
+* text=auto
+
+# keep JSON files normalized as LF in repo (helps package-lock consistency)
+*.json text eol=lf
