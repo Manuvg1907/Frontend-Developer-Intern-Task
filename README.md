@@ -4,6 +4,8 @@
 **Version:** 1.0.0  
 **Last Updated:** November 2025
 
+Used Next.js -Provides built-in support for SSR, where pages are rendered on the server and sent as fully-formed HTML to the client, resulting in faster initial page loads and improved SEO. It also supports SSG, generating static HTML files at build time for even faster loading and reduced server load
+
 ---
 
 ## Table of Contents
