@@ -1369,7 +1369,7 @@ PORT=5000
 
 ### For MongoDB Atlas
 ```env
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/scalablewebapp?retryWrites=true&w=majority
+Your DB uri
 JWT_SECRET=your_secret_key_here
 ```
 
